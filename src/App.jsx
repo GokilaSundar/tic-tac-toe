@@ -1,4 +1,5 @@
 import './App.css'
+import TicTacToe from './game/TicTacToe'
 
 function App() {
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <div>
         Tic Tac Toe Gaming
+        <TicTacToe/>
       </div>
      
     </>
